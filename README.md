@@ -1,5 +1,5 @@
 # Hi, I'm Deinigu! 🌝
-Or Deltablade_, however you prefer
+(Also known as Deltablade_)
 
 ## 🚀 About Me
 
