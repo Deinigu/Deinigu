@@ -4,5 +4,5 @@
 ## 🚀 About Me
 
 ```python
-print('To be continued')
+print('My name is Diego. I study Software Engeneering at University of Malaga.\n')
 ```
