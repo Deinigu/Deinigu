@@ -19,5 +19,7 @@ def rutinaDiaria():
     if(Diego.getExams().getFechaMasProxima().getCuantoQueda() > 1.50):
       playVideogames()
       read()
+    else:
+      study()
     sleep()
 ```
