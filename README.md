@@ -12,7 +12,7 @@ def rutinaDiaria():
     haveSomeBreakFast()
     goToUniversity()
     comeBack()
-    sleepSiesta()
+    sleepSiesta(3600000)
     wakeUp()
     study()
     goToGym()
