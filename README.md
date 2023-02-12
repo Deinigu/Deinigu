@@ -16,10 +16,12 @@ def rutinaDiaria():
     wakeUp()
     study()
     goToGym()
+    
     if(Diego.getExams().getFechaMasProxima().getCuantoQueda() > 1.50):
       playVideogames()
       read()
     else:
       study()
+    
     sleep()
 ```
