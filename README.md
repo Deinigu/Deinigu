@@ -23,5 +23,5 @@ def rutinaDiaria():
     else:
       study()
     
-    sleep()
+    sleep(25200000)
 ```
