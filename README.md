@@ -17,5 +17,6 @@ def rutinaDiaria():
     study()
     goToGym()
     playVideogames()
+    read()
     sleep()
 ```
