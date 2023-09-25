@@ -1,4 +1,4 @@
-# Hi, I'm Deinigu! 🌝
+# Hi, I'm Diego! 🌝
 
 ## 🌠 About Me
 
