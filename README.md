@@ -3,5 +3,5 @@
 ## 🌠 About Me
 
 ```python
-print('My name is Diego. I study Software Engineering at University of Malaga.\n')
-```
+print("My name is Diego. I have completed my Bachelor's degree in Software Engineering at the University of Malaga.\n")
+
