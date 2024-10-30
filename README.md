@@ -8,8 +8,10 @@ I'm a passionate **Software Engineer** from Málaga, Spain, with a Bachelor's de
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, Java, TypeScript, JavaScript, C++, C#
-- **Frameworks**: Django, Angular, Flask, React, Spring Boot
-- **Tools & Libraries**: Arch Linux, VSCode, OpenCV, , NumPy, Matplotlib, SciPy, Scikit-learn
+- **Data Science Tools & Libraries**: OpenCV, NumPy, Matplotlib, SciPy, Scikit-learn
+- **Frameworks**: Django, Angular, React, Spring Boot
+- **Games Tools**: Godot, PyGame, Unity, Forge Raylib
+- **Others**: Arch Linux, VSCode
 
 ## 🧠 Notable Projects
 
