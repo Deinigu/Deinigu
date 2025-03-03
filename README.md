@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:576cbc,100:19376d&height=400&section=header&text=Diego%20López%20Reduello&fontSize=80&fontColor=fff&animation=fadeIn&desc=Software%20Engineer&fontAlignY=40&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:576cbc,100:19376d&height=400&section=header&text=Diego%20López%20Reduello&fontSize=80&fontColor=fff&animation=fadeIn&desc=Data%20Scientist%20/%20Software%20Engineer&fontAlignY=40&descSize=30)
 
 # 👋 Hello, I'm Diego!
 
