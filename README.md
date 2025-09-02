@@ -26,17 +26,3 @@ I'm a passionate **Data Sciencist** and **Software Engineer** from Málaga, Spai
 
 ---
 
-## 🧠 Notable Projects
-
-- ### [**Chess Piece Detection & Classification**](https://github.com/Deinigu/TFG-Diego)
-
-    A Computer Vision and AI-powered system that detects and classifies chess pieces on a real board using **YOLOv8** and **OpenCV** for precise and efficient recognition.
-
-- ### [**elRastro Web App**](https://github.com/Deinigu/elRastro-fe)
-
-    A full-stack marketplace web application styled like eBay, integrating secure user authentication (_OAuth_) and payment processing (_PayPal_). Built with Django (backend) and Angular (frontend).
-
----
-
-🚀 **Let’s Innovate Together!**  
-I’m always open to collaborating on cutting-edge projects. Feel free to reach out!
