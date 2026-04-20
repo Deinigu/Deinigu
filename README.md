@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Diego!
 
-I'm a passionate **Data Sciencist** and **Software Engineer** from Málaga, Spain, holding a Bachelor’s degree in Software Engineering from the University of Málaga. I thrive on tackling complex challenges and crafting innovative solutions. My core interests lie in **Machine Learning**, **Data Science**, **Web Development**, and **Game Development** .
+I'm a passionate **Data Sciencist** and **ML Engineer** from Málaga, Spain, holding a Bachelor’s degree in Software Engineering from the University of Málaga. I thrive on tackling complex challenges and crafting innovative solutions. My core interests lie in **Machine Learning**, **Data Science**, **Web Development**, and **Game Development** .
 
 ---
 
